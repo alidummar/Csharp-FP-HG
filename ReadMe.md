@@ -31,19 +31,11 @@ The computer will randomly select a word from a provided list. The word will be 
 
 ## Usage
 
-1. Clone the repository: `git clone https://github.com/your-username/console-hangman.git`
-2. Navigate to the project folder: `cd console-hangman`
-3. Run the game: `dotnet run`
+1. Clone the repository: https://github.com/alidummar/Csharp-HangmanGame 
 
 ## Contribution Guidelines
 
-We welcome contributions! To contribute to Console Hangman, follow these steps:
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature-name`
-3. Make changes and commit: `git commit -m "Description of changes"`
-4. Push to the branch: `git push origin feature-name`
-5. Create a pull request.
+I welcome contributions!
 
 ## License
 
